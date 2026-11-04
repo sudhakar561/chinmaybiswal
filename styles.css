@@ -1451,6 +1451,13 @@ section#about {
     .hire {
         display: none
     }
+    .foot-soc a i {
+    font-size: 13px;
+}
+.foot-soc a {
+    width: 35px;
+    height: 35px;
+}
 }
 
 @media(max-width:480px) {
